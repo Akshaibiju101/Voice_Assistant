@@ -48,9 +48,6 @@ PyMsgBox==1.0.9
 pyperclip==1.8.1
 pypiwin32==223
 PyQt5==5.15.2
-pyqt5-plugins==5.15.2.2.0.1
-PyQt5-sip==12.8.1
-pyqt5-tools==5.15.2.3
 PyRect==0.1.4
 PyScreeze==0.1.26
 python-dotenv==0.15.0
@@ -58,7 +55,6 @@ pyttsx3==2.90
 PyTweening==1.0.3
 pytz==2020.4
 pywhatkit==3.2
-pywin32==300
 qt5-applications==5.15.2.2.1
 qt5-tools==5.15.2.1.0.1
 ratelim==0.1.6
